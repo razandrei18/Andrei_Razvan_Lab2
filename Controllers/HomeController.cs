@@ -5,10 +5,10 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using Bilici_Miodrag_Miroslav_Lab2.Models;
-using Bilici_Miodrag_Miroslav_Lab2.Data;
+using LibraryModel.Models;
+using LibraryModel.Data;
 using Microsoft.EntityFrameworkCore;
-using Bilici_Miodrag_Miroslav_Lab2.Models.LibraryViewModels;
+using LibraryModel.Models.LibraryViewModels;
 
 namespace Bilici_Miodrag_Miroslav_Lab2.Controllers
 {
@@ -47,10 +47,10 @@ namespace Bilici_Miodrag_Miroslav_Lab2.Controllers
             return View();
         }
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+        /*[ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
-        }
+        }*/
     }
 }

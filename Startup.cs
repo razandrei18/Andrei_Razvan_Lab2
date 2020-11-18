@@ -9,7 +9,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
-using Bilici_Miodrag_Miroslav_Lab2.Data;
+using LibraryModel.Data;
 
 namespace Bilici_Miodrag_Miroslav_Lab2
 {

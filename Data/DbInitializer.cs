@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Bilici_Miodrag_Miroslav_Lab2.Models;
+using LibraryModel.Models;
 
 namespace Bilici_Miodrag_Miroslav_Lab2.Data
 {

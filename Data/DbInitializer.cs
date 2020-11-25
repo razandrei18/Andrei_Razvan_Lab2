@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using LibraryModel.Models;
 
-namespace Bilici_Miodrag_Miroslav_Lab2.Data
+namespace Andrei_Razvan_Lab2.Data
 {
     public class DbInitializer
     {

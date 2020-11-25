@@ -7,9 +7,9 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.DependencyInjection;
-using Bilici_Miodrag_Miroslav_Lab2.Data;
+using Andrei_Razvan_Lab2.Data;
 
-namespace Bilici_Miodrag_Miroslav_Lab2
+namespace Andrei_Razvan_Lab2
 {
     public class Program
     {

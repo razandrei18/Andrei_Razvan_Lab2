@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>Andrei_Razvan_Lab2</AssemblyName>
+    <RootNamespace>Andrei_Razvan_Lab2</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

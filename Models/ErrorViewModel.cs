@@ -1,6 +1,6 @@
 using System;
 
-namespace Bilici_Miodrag_Miroslav_Lab2.Models
+namespace Andrei_Razvan_Lab2.Models
 {
     public class ErrorViewModel
     {

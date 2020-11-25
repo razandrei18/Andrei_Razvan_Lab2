@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore;
 using LibraryModel.Data;
 using LibraryModel.Models;
 
-namespace Bilici_Miodrag_Miroslav_Lab2.Controllers
+namespace Andrei_Razvan_Lab2.Controllers
 {
     public class BooksController : Controller
     {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Bilici_Miodrag_Miroslav_Lab2.Models.LibraryViewModels
+namespace Andrei_Razvan_Lab2.Models.LibraryViewModels
 {
     public class PublishedBookData
     {

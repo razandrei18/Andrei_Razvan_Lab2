@@ -11,7 +11,7 @@ using System.Net.Http;
 using System.Text;
 using Newtonsoft.Json;
 
-namespace Bilici_Miodrag_Miroslav_Lab2
+namespace Andrei_Razvan_Lab2
 {
     public class CustomersController : Controller
     {

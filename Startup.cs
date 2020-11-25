@@ -11,7 +11,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
 using LibraryModel.Data;
 
-namespace Bilici_Miodrag_Miroslav_Lab2
+namespace Andrei_Razvan_Lab2
 {
     public class Startup
     {

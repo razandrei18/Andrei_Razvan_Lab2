@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using LibraryModel.Models;
 
-namespace Bilici_Miodrag_Miroslav_Lab2.Data
+namespace Andrei_Razvan_Lab2.Data
 {
     public class LibraryContext:DbContext
     {

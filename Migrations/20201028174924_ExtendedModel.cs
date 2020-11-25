@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace Bilici_Miodrag_Miroslav_Lab2.Migrations
+namespace Andrei_Razvan_Lab2.Migrations
 {
     public partial class ExtendedModel : Migration
     {

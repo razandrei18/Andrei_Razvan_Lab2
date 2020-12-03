@@ -16,7 +16,11 @@ namespace Andrei_Razvan_Lab2.Controllers
     {
         private readonly ILogger<HomeController> _logger;
         private readonly LibraryContext _context;
-       
+
+        public IActionResult Chat()
+        {
+            return View();
+        }
 
         public async Task<ActionResult> Statistics()
         {
